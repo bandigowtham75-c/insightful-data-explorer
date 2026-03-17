@@ -6,6 +6,7 @@ import { DepartmentPieChart } from "@/components/DepartmentPieChart";
 import { EvFeasibilityTable } from "@/components/EvFeasibilityTable";
 import { OccupancyChart } from "@/components/OccupancyChart";
 import { BuildingTypeChart } from "@/components/BuildingTypeChart";
+import { DataSnapshot } from "@/components/DataSnapshot";
 import { BatteryCharging, Zap } from "lucide-react";
 
 const Index = () => {
