@@ -54,6 +54,9 @@ const Index = () => {
           <HourlyPatternChart />
         </div>
 
+        {/* Data Snapshot */}
+        <DataSnapshot />
+
         {/* EV Feasibility Table */}
         <EvFeasibilityTable />
 
